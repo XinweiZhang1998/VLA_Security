@@ -3,27 +3,14 @@ This repository collects papers on security, adversarial robustness, and attacks
 
 ![Attack categories](category.png)
 
-## Attack Overview
-Backdoor/Poisoning: Adversaries implant hidden triggers or manipulate training data so the model behaves normally except when a trigger appears, causing targeted misbehavior.
-
-Patch Attacks: Visual patches or stickers are placed in the scene to reliably steer the model’s perception and downstream actions.
-
-Adversarial Attacks: Crafted perturbations in inputs or prompts induce failures or unsafe behavior without changing the model’s weights.
-
-Action Manipulation: Attacks directly disrupt the action outputs (e.g., freezing or drifting actions) to degrade control and task completion.
-
-Robustness/Sensor Attacks: Physical or sensor-level variations (lighting, viewpoint, noise, sensor corruption) stress the model’s perception-action pipeline.
-
-Defense: Methods that improve robustness through training, filtering, or detection to reduce attack success.
-
-## Table of Contents
-1. [Backdoor/Poisoning](#backdoorpoisoning)
-2. [Patch Attacks](#patch-attacks)
-3. [Adversarial Attacks](#adversarial-attacks)
-4. [Action Manipulation](#action-manipulation)
-5. [Robustness/Sensor Attacks](#robustnesssensor-attacks)
-6. [Benchmarks](#benchmarks)
-7. [Defense](#defense)
+## Overview and Contents
+1. [Backdoor/Poisoning](#backdoorpoisoning) — Hidden triggers or poisoned data cause targeted misbehavior under specific conditions.
+2. [Patch Attacks](#patch-attacks) — Physical or digital patches steer perception and downstream actions.
+3. [Adversarial Attacks](#adversarial-attacks) — Crafted inputs or prompts induce failures without changing model weights.
+4. [Action Manipulation](#action-manipulation) — Attacks disrupt action outputs (e.g., freezing or drifting actions).
+5. [Robustness/Sensor Attacks](#robustnesssensor-attacks) — Physical or sensor-level variations stress the perception-action pipeline.
+6. [Defense](#defense) — Methods that improve robustness through training, filtering, or detection.
+7. [Benchmarks](#benchmarks) — Datasets and evaluation suites for VLA security and robustness.
 
 ## Backdoor/Poisoning
 | Title | Year | Venue/Type | PDF |
