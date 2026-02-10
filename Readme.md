@@ -26,15 +26,15 @@ This repository collects papers on security for Vision-Language-Action (VLA) mod
 | --- | --- | --- | --- |
 | When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2511.21192.pdf) |
 | Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2511.21663.pdf) |
+| Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics | 2025 | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Exploring_the_Adversarial_Vulnerabilities_of_Vision-Language-Action_Models_in_Robotics_ICCV_2025_paper.pdf) |
+| When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2511.16203.pdf) |
+| Model-Agnostic Adversarial Attack and Defense for Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2510.13237.pdf) |
 
 ## Adversarial Attacks
 | Title | Year | Venue/Type | PDF |
 | --- | --- | --- | --- |
-| ADVEDM: Fine-grained Adversarial Attack against VLM-based Embodied Agents | 2025 | NeurIPS | [PDF](https://arxiv.org/pdf/2509.16645.pdf) |
 | ANNIE: Be Careful of Your Robots | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2509.03383.pdf) |
 | FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2509.19870.pdf) |
-| Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics | 2025 | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Exploring_the_Adversarial_Vulnerabilities_of_Vision-Language-Action_Models_in_Robotics_ICCV_2025_paper.pdf) |
-| When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2511.16203.pdf) |
 
 ## Robustness/Sensor Attacks
 | Title | Year | Venue/Type | PDF |
@@ -50,9 +50,10 @@ This repository collects papers on security for Vision-Language-Action (VLA) mod
 | AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2511.12149.pdf) |
 
 
-## Defense
+## VLM
 | Title | Year | Venue/Type | PDF |
 | --- | --- | --- | --- |
-| Model-Agnostic Adversarial Attack and Defense for Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2510.13237.pdf) |
 | Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness | 2025 | arXiv preprint (VLM robustness) | [PDF](https://arxiv.org/pdf/2501.09446.pdf) |
 | Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks | 2025 | EMNLP Findings (VLM defense) | [PDF](https://aclanthology.org/2025.findings-emnlp.1095.pdf) |
+| ADVEDM: Fine-grained Adversarial Attack against VLM-based Embodied Agents | 2025 | NeurIPS | [PDF](https://arxiv.org/pdf/2509.16645.pdf) |
+
