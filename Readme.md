@@ -40,7 +40,7 @@ This repository collects papers on security for Vision-Language-Action (VLA) mod
 | Title | Year | Venue/Type | PDF |
 | --- | --- | --- | --- |
 | Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2509.18953.pdf) |
-| Phantom Menace: Exploring and Enhancing the Robustness of VLA Models Against Physical Sensor Attacks | 2025 | arXiv preprint (AAAI 2026) | [PDF](https://arxiv.org/pdf/2511.10008.pdf) |
+| Phantom Menace: Exploring and Enhancing the Robustness of VLA Models Against Physical Sensor Attacks | 2026 | AAAI 2026 | [PDF](https://arxiv.org/pdf/2511.10008.pdf) |
 | Exploring the Robustness of Vision-Language-Action Models against Sensor Attacks | 2025 | LAMPS '25 (workshop) | [PDF](https://www.zjushine.top/lamps-vla-robustness.github.io/static/pdfs/LAMPS2025_VLA_Robustness.pdf) |
 
 
