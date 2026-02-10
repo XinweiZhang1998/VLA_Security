@@ -49,6 +49,10 @@ This repository collects papers on security for Vision-Language-Action (VLA) mod
 | --- | --- | --- | --- |
 | AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2511.12149.pdf) |
 
+## Defenses
+| Title | Year | Venue/Type | PDF |
+| --- | --- | --- | --- |
+| SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning | 2025 | NeurIPS 2026 Spotlight | [PDF](https://openreview.net/pdf?id=dt940loCBT) |
 
 ## VLM
 | Title | Year | Venue/Type | PDF |
