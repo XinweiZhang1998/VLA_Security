@@ -20,6 +20,9 @@ This repository collects papers on security for Vision-Language-Action (VLA) mod
 | BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2505.16640.pdf) |
 | Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2510.09269.pdf) |
 | TrojanRobot: Physical-world Backdoor Attacks Against VLM-based Robotic Manipulation | 2025 | arXiv preprint | [PDF](https://arxiv.org/pdf/2411.11683.pdf) |
+| Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | 2026 | arXiv preprint | [PDF] |
+|  | 2026 | arXiv preprint | [PDF] |
+
 
 ## Patch Attacks
 | Title | Year | Venue/Type | PDF |
